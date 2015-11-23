@@ -50,6 +50,7 @@ function welcome ()
    ==========================================================================================
    Password4Domain V0.0.1(2015)
    Author : Hanine Abdelmouneim <sup3rnova.m0nster@gmail.com>
+   https://github.com/abdelmouneim
    Thanks for using this program :) 
    ==========================================================================================
 ]]
