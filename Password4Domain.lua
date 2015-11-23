@@ -3,6 +3,7 @@
 --[[
 	This pure-Lua software generate complex password using a passphrase and a domain name.
 	Author = "Abdelmouneim Hanine <sup3rnova.m0nster@gmail.com>"
+	URL = https://github.com/abdelmouneim/Password4Domain
 	LICENSE = {
 	
 		Copyright (c) 2015 Abdelmouneim Hanine <sup3rnova.m0nster@gmail.com>
