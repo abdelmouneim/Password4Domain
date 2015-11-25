@@ -37,7 +37,7 @@ installed on your computer, if not you can download it from Lua.org/download.htm
 Caution
 =======
 
-Using this program will make vulnerable to shoulder surfing attack ( Oops :/ )
+Using this program will make you vulnerable to shoulder surfing attack ( Oops :/ )
 I'll fix it for the next version. 
 
 Credits
